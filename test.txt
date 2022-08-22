@@ -1,2 +1,4 @@
 master file
 master text
+child file
+child text
